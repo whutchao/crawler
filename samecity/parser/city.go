@@ -1,7 +1,7 @@
 package parser
 
 import (
-    "depthLearn/goCrawler/engine"
+    "github.com/whutchao/crawler/engine"
 	"regexp"
 	"strings"
 )

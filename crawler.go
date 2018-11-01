@@ -1,9 +1,9 @@
 package main
 
 import (
-	"depthLearn/goCrawler/engine"
-	"depthLearn/goCrawler/samecity/parser"
-	"depthLearn/goCrawler/scheduler"
+	"github.com/whutchao/crawler/engine"
+	"github.com/whutchao/crawler/samecity/parser"
+	"github.com/whutchao/crawler/scheduler"
 )
 
 func main() {

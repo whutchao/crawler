@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"depthLearn/goCrawler/fetcher"
+	"github.com/whutchao/crawler/fetcher"
 	"fmt"
 	"log"
 )

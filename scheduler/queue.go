@@ -1,6 +1,6 @@
 package scheduler
 
-import "depthLearn/goCrawler/engine"
+import "github.com/whutchao/crawler/engine"
 
 //队列调度器
 type QueuedScheduler struct {
